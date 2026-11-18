@@ -1,0 +1,65 @@
+[
+  {
+    "city": "東京",
+    "area_or_station": "東京站",
+    "verified_connection": "成田 N’EX",
+    "planning_use_case": "隔日長途鐵路",
+    "check_before_booking": "確認 JR 入口與住宿是丸之內或八重洲側。",
+    "source_url": "https://www.narita-airport.jp/en/access/train/?vm=r",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "東京",
+    "area_or_station": "新宿",
+    "verified_connection": "成田 N’EX",
+    "planning_use_case": "東京西側行程",
+    "check_before_booking": "確認列車確實停新宿，並按酒店地址選出入口。",
+    "source_url": "https://www.narita-airport.jp/en/access/train/?vm=r",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "東京",
+    "area_or_station": "品川",
+    "verified_connection": "羽田京急線",
+    "planning_use_case": "鐵路轉乘",
+    "check_before_booking": "依航廈及當日列車停站核對，帶行李時另查月台動線。",
+    "source_url": "https://www.tokyo-haneda.com/en/access/train/index.html?tab=terminal2",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "大阪",
+    "area_or_station": "大阪站／梅田",
+    "verified_connection": "關西機場 HARUKA",
+    "planning_use_case": "大阪市區基地",
+    "check_before_booking": "確認酒店靠大阪站還是其他梅田站出口。",
+    "source_url": "https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "大阪",
+    "area_or_station": "新大阪站",
+    "verified_connection": "關西機場 HARUKA",
+    "planning_use_case": "隔日新幹線",
+    "check_before_booking": "機票、車票與飯店地址分別核對新大阪及大阪的站名。",
+    "source_url": "https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "大阪",
+    "area_or_station": "天王寺",
+    "verified_connection": "關西機場 HARUKA",
+    "planning_use_case": "大阪南側基地",
+    "check_before_booking": "核對酒店是否靠 JR 或地鐵入口，確認步行路線。",
+    "source_url": "https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "大阪",
+    "area_or_station": "難波站區",
+    "verified_connection": "關西機場南海電鐵 Rapi:t",
+    "planning_use_case": "大阪南區與機場往返",
+    "check_before_booking": "確認車票所寫南海難波站與酒店靠近的地鐵出口，按日期再查開行。",
+    "source_url": "https://www.nankai.co.jp/en_railway/traffic/express/rapit.html",
+    "checked_on": "2026-11-19"
+  }
+]

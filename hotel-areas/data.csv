@@ -1,0 +1,8 @@
+city,area_or_station,verified_connection,planning_use_case,check_before_booking,source_url,checked_on
+東京,東京站,成田 N’EX,隔日長途鐵路,確認 JR 入口與住宿是丸之內或八重洲側。,https://www.narita-airport.jp/en/access/train/?vm=r,2026-11-19
+東京,新宿,成田 N’EX,東京西側行程,確認列車確實停新宿，並按酒店地址選出入口。,https://www.narita-airport.jp/en/access/train/?vm=r,2026-11-19
+東京,品川,羽田京急線,鐵路轉乘,依航廈及當日列車停站核對，帶行李時另查月台動線。,https://www.tokyo-haneda.com/en/access/train/index.html?tab=terminal2,2026-11-19
+大阪,大阪站／梅田,關西機場 HARUKA,大阪市區基地,確認酒店靠大阪站還是其他梅田站出口。,https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/,2026-11-19
+大阪,新大阪站,關西機場 HARUKA,隔日新幹線,機票、車票與飯店地址分別核對新大阪及大阪的站名。,https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/,2026-11-19
+大阪,天王寺,關西機場 HARUKA,大阪南側基地,核對酒店是否靠 JR 或地鐵入口，確認步行路線。,https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/,2026-11-19
+大阪,難波站區,關西機場南海電鐵 Rapi:t,大阪南區與機場往返,確認車票所寫南海難波站與酒店靠近的地鐵出口，按日期再查開行。,https://www.nankai.co.jp/en_railway/traffic/express/rapit.html,2026-11-19
