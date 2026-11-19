@@ -26,10 +26,10 @@
 ## 住宿與相關交通攻略
 
 - [東京住宿區域與酒店選擇](https://todolist-japan.com/zh/tokyo-hotel-accommodation/)
-- [東京 JR 車站周邊住宿](https://todolist-japan.com/zh/tokyo-jr-station-hotels/)
+- [東京 JR 車站附近住宿](https://todolist-japan.com/zh/tokyo-jr-station-hotels/)
 - [成田機場到東京站](https://todolist-japan.com/zh/narita-airport-to-tokyo-station/)
-- [成田到新宿的交通比較](https://todolist-japan.com/zh/narita-airport-to-shinjuku/)
-- [關西機場到大阪的替代路線](https://todolist-japan.com/zh/kansai-airport-to-osaka-transport/)
+- [成田機場到新宿交通](https://todolist-japan.com/zh/narita-airport-to-shinjuku/)
+- [關西機場到大阪交通](https://todolist-japan.com/zh/kansai-airport-to-osaka-transport/)
 - [關西機場到京都的交通攻略](https://todolist-japan.com/zh/kansai-airport-to-kyoto-transport/)
 - [福岡機場到博多的交通選項](https://todolist-japan.com/zh/fukuoka-airport-to-hakata-transport-guide/)
 
