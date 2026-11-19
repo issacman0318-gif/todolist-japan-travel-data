@@ -35,3 +35,9 @@ NRT 東京站／新宿俱有 N’EX 服務。以 HARUKA 為起點則可比較大
 
 - [東京住宿推薦](https://todolist-japan.com/zh/tokyo-hotel-accommodation/)
 - [大阪住宿推薦](https://todolist-japan.com/zh/osaka-hotel-accommodation/)
+
+## 文章、資料下載與旅遊圖卡
+
+- [Medium｜如何按翌日列車選擇東京飯店或大阪酒店](https://medium.com/@issacman0318/choosing-a-japan-hotel-when-your-next-train-matters-fd8308b5f19b)
+- [Kaggle｜東京與大阪住宿站區 CSV／JSON](https://www.kaggle.com/datasets/issacman/tokyo-and-osaka-rail-linked-hotel-areas)
+- Pinterest 圖卡：[東京酒店選區](https://www.pinterest.com/pin/710583647509591871/)、[大阪飯店選區](https://www.pinterest.com/pin/710583647509591865/)
